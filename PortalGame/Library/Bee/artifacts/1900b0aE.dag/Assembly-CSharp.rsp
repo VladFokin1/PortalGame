@@ -360,6 +360,7 @@
 -analyzer:"D:/Unity/Unity itself/2022.3.24f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"D:/Unity/Unity itself/2022.3.24f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/ModularFirstPersonController/FirstPersonController/FirstPersonController.cs"
+"Assets/Scripts/PortalCamera.cs"
 -langversion:9.0
 
 /deterministic
